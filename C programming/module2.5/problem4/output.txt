@@ -1,0 +1,3 @@
+Enter the value : -40
+
+-40 is the Negative number
