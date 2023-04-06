@@ -1,4 +1,4 @@
-Enter the Money: 21100
+Enter the Money: 250000
 
 Buy Gucci Bag
 Buy Gucci belt Also
