@@ -1,0 +1,2 @@
+Maximum Length: 5
+Palindrome
